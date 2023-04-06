@@ -11,7 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             //ctrl + f5 사용
-            Console.WriteLine("Hello World"); //line 없으면 엔터안됨
+            Console.WriteLine("안녕세상아~"); //line 없으면 엔터안됨
         }
     }
 }
