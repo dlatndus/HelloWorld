@@ -10,6 +10,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            //ctrl + f5 사용
+            Console.WriteLine("Hello World"); //line 없으면 엔터안됨
         }
     }
 }
